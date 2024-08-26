@@ -1,0 +1,56 @@
+body {
+    background-color: #FFD6AF;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+}
+
+.contanier {
+    background-color: #FFD6AF;
+    padding-top: 1px;
+    width: 35%;
+    border: Solid 1px #6B4B3E;
+    border-radius: 5px;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 20%;
+    margin-bottom: 10px;
+    color: #6B4B3E;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #6B4B3E;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: #1a1621;
+}
+
+#increment-btn {
+    background: #C49E85;
+    color: #F8F4F9;
+}
+
+#save-btn {
+    background: #C49E85;
+    color: #F8F4F9;
+}
+
+p {
+    color: #6B4B3E;
+}
